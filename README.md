@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0001-two-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -40,5 +41,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0414-third-maximum-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
