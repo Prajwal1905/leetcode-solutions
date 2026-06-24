@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0283-move-zeroes) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
