@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0001-two-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
