@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0796-rotate-string](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0796-rotate-string) |
 ## Stack
 |  |
 | ------- |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
