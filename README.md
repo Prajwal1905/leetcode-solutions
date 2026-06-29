@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1002-find-common-characters](https://github.com/Prajwal1905/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prajwal1905/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [1002-find-common-characters](https://github.com/Prajwal1905/leetcode-solutions/tree/master/1002-find-common-characters) |
 ## String
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0796-rotate-string) |
+| [1002-find-common-characters](https://github.com/Prajwal1905/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prajwal1905/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Stack
 |  |
