@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0204-count-primes) |
