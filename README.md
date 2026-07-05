@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prajwal1905/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Prajwal1905/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 ## Dynamic Programming
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
@@ -259,4 +261,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0204-count-primes) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
