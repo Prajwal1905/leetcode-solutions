@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prajwal1905/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prajwal1905/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
