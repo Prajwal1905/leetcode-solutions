@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0204-count-primes) |
+| [0507-perfect-number](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prajwal1905/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Prajwal1905/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
