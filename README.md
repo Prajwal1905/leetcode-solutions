@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1002-find-common-characters](https://github.com/Prajwal1905/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prajwal1905/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prajwal1905/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0796-rotate-string) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1002-find-common-characters](https://github.com/Prajwal1905/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Prajwal1905/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prajwal1905/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prajwal1905/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Prajwal1905/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prajwal1905/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Prajwal1905/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
