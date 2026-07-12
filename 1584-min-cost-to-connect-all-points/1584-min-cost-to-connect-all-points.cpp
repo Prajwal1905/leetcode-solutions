@@ -1,60 +1,31 @@
 class Solution {
 public:
-    vector<int>parent;
-    vector<int>rankValue;
-    struct Edge{
-        int u,v,weight;
-    };
-    static bool compare(Edge a,Edge b){
-        return a.weight<b.weight;
-    }
-    
-    int findParent(int node){
-        if(parent[node]==node){
-            return node;
-        }
-        return parent[node]=findParent(parent[node]);
-    }
-
-    void unionNodes(int u,int v){
-        int rootU=findParent(u);
-        int rootV=findParent(v);
-        if(rootU==rootV){
-            return ;
-        }
-        if(rankValue[rootU]<rankValue[rootV]){
-            parent[rootU]=rootV;
-        }else if(rankValue[rootU]<rankValue[rootV]){
-            parent[rootV]=rootU;
-        }else{
-            parent[rootV]=rootU;
-            rankValue[rootU]++;
-        }
-    }
     int minCostConnectPoints(vector<vector<int>>& points) {
         int n=points.size();
-        parent.resize(n);
-        rankValue.resize(n,0);
-        for(int i=0;i<n;i++){
-            parent[i]=i;
-        }
-        vector<Edge>edges;
-        for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
-                int cost=abs(points[i][0]-points[j][0])+abs(points[i][1]-points[j][1]);
-                edges.push_back({i,j,cost});
+        vector<bool>visited(n,false);
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>pq;
+        pq.push({0,0});
+        int totalCost=0;
+        int edgeUsed=0;
+        while(!pq.empty() && edgeUsed<n){
+            int cost=pq.top().first;
+            int node=pq.top().second;
+            pq.pop();
+            if(visited[node]){
+                continue;
+            }
+            visited[node]=true;
+            totalCost+=cost;
+            edgeUsed++;
+            for(int next=0;next<n;next++){
+                if(!visited[next]){
+                    int newCost=abs(points[node][0]-points[next][0])+
+                                abs(points[node][1]-points[next][1]);
+                    pq.push({newCost,next});
+                }
             }
         }
-        sort(edges.begin(),edges.end(),compare);
-        int ans=0;
-        for(auto edge:edges){
-            if(findParent(edge.u)!=findParent(edge.v)){
-                ans+=edge.weight;
-                unionNodes(edge.u,edge.v);
-            }
-
-        }
-        return ans;
-
+        return totalCost;
+        
     }
 };
