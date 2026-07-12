@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1002-find-common-characters](https://github.com/Prajwal1905/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prajwal1905/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Prajwal1905/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prajwal1905/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prajwal1905/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prajwal1905/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Prajwal1905/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Prajwal1905/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prajwal1905/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Prajwal1905/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Prajwal1905/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -367,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prajwal1905/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Prajwal1905/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
