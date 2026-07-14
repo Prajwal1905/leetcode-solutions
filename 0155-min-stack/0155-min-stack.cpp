@@ -4,19 +4,23 @@ public:
     stack<int>minSt;
     MinStack() {
         
+        
     }
     
     void push(int val) {
         st.push(val);
-        if(minSt.empty())
-           minSt.push(val);
-        else
-           minSt.push(min(val,minSt.top()));
+        if(minSt.empty() || val<=minSt.top()){
+            minSt.push(val);
+        }
+        
     }
     
     void pop() {
+        
+        if(st.top()==minSt.top()){
+            minSt.pop();
+        }
         st.pop();
-        minSt.pop();
         
     }
     
