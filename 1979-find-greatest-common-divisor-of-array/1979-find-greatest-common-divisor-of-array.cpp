@@ -6,12 +6,11 @@ public:
         for(int num:nums){
             smallest=min(smallest,num);
             largest=max(largest,num);
-        }
+        }        
         while(smallest!=0){
             int rem=largest%smallest;
             largest=smallest;
             smallest=rem;
-
         }
         return largest;
     }
