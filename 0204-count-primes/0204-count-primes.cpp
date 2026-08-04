@@ -1,9 +1,7 @@
 class Solution {
 public:
     int countPrimes(int n) {
-        if(n<=2){
-            return false;
-        }
+        if(n<=2) return 0;
         vector<bool>isPrime(n,true);
         isPrime[0]=false;
         isPrime[1]=false;
@@ -14,14 +12,13 @@ public:
                 }
             }
         }
-        int count=0;;
+        int count=0;
         for(int i=2;i<n;i++){
             if(isPrime[i]){
                 count++;
             }
         }
         return count;
-        
         
     }
 };
