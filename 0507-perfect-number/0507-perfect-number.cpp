@@ -13,10 +13,7 @@ public:
                 }
             }
         }
-        if(sum==num){
-            return true;
-        }else{
-            return false;
-        }
+        return sum==num;
+        
     }
 };
