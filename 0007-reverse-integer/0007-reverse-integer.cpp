@@ -9,6 +9,7 @@ public:
                 return 0;
             }
             x=x/10;
+
         }
         return reverse;
     }
