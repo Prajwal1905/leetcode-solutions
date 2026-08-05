@@ -1,18 +1,18 @@
 class Solution {
 public:
     double myPow(double x, int n) {
-        long long power=n;
-        if(power<0){
+        long long N=n;
+        if(N<0){
             x=1/x;
-            power=-power;
+            N=-N;
         }
-        double ans=1;
-        while(power>0){
-            if(power%2==1){
+        double  ans=1;
+        while(N>0){
+            if(N%2==1){
                 ans=ans*x;
             }
             x=x*x;
-            power=power/2;
+            N=N/2;
         }
         return ans;
     }
